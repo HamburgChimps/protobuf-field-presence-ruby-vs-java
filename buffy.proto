@@ -1,0 +1,5 @@
+syntax = "proto2";
+
+message Buffy {
+  required string thing = 1;
+}
